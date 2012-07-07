@@ -1,0 +1,23 @@
+.box {margin: 10px 0px}
+
+.tb {font-weight: bold}
+.ts {font-size: 0.9em}
+.ti {font-style: italic}
+
+
+h1 {font-size: 1.2em; border-bottom: 1px solid #000}
+h2 {font-size: 1.1em; border-bottom: 1px solid #000}
+h3 {font-size: 1em; margin-bottom: 5px}
+
+/*** FORM ***/
+.search_form {background: #f0f0f0; padding: 5px}
+.search_form input.long {width: 600px}
+
+.results dl {}
+.results dt, .results dd {float: left}
+.results dt {padding: 0px 3px}
+
+/*** PAGINATOR ***/
+.paginator {margin-top: 5px}
+.paginator a {display: block; padding: 3px 6px; border: 1px solid #999; float: left; margin-right: 5px; background: #f0f0f0; color: #000; text-decoration: none}
+.paginator a.active, .paginator a:hover {background: #369; color: #fff}
